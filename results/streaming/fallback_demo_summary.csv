@@ -1,0 +1,6 @@
+metric,value
+mode,local_fallback_no_live_kafka
+observable_readings_generated,135
+kalman_outputs_soil_moisture,45
+present_observations,45
+missing_observations,0
